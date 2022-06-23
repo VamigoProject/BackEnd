@@ -1,6 +1,6 @@
 # Vamigo(리뷰 공유 SNS) Backend 저장소
 
-[https://github.com/VamigoProject/FrontEnd]
+[FrontEnd 저장소](https://github.com/VamigoProject/FrontEnd)
 
 ## 사용 기술
 서버 : `spring` <br/>

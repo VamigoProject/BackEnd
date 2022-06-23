@@ -1,5 +1,7 @@
 # Vamigo(리뷰 공유 SNS) Backend 저장소
 
+[https://github.com/VamigoProject/FrontEnd]
+
 ## 사용 기술
 서버 : `spring` <br/>
 Database & Search Engine : `mariaDB` , `Elastic Search`
